@@ -1,2 +1,2 @@
 # GraduationCountdown
-This one makes sense, trust me
+[This one makes perfect sense, trust me](https://smertlove.github.io/GraduationCountdown/main)
